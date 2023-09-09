@@ -9,10 +9,10 @@ You can access the deployed version of this web app here: [Video Web App](https:
 
 This project is built using the following technologies and libraries:
 
-- React 18
-- React Router Version 6
-- Material-UI Version 5
-- Axios for data fetching
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="16" height="16"> React 18
+-  <img src="https://raw.githubusercontent.com/UtkarshSinghChouhan/Gym_Website/80f0bd111c3c89659501b8282b409427a7c75147/screen-shots/react-router.svg" alt="React Router" width="16" height="16"> React Router Version 6
+-  <img src="https://raw.githubusercontent.com/UtkarshSinghChouhan/Gym_Website/80f0bd111c3c89659501b8282b409427a7c75147/screen-shots/material-ui.svg" alt="Material-UI" width="16" height="16"> Material-UI Version 5 
+- <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" alt="Axios" width="16" height="16"> Axios of Data Fetching
 
 ## 🖼️ Screenshots:
 
